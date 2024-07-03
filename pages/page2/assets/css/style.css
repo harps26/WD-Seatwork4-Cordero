@@ -12,8 +12,7 @@ html, body {
 
 .header {
     width: 100%;
-    background: rgb(248,251,255);
-background: linear-gradient(90deg, rgba(248,251,255,1) 11%, rgba(167,85,236,1) 59%, rgba(255,255,255,1) 100%);
+    background: rgb(0, 0, 0);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -21,21 +20,15 @@ background: linear-gradient(90deg, rgba(248,251,255,1) 11%, rgba(167,85,236,1) 5
 }
 
 .header .logo {
-    color: rgb(155, 29, 183);
+    color: rgb(255, 255, 255);
     font-size: 27px;
     text-decoration: none;
 }
 
 .header .buy {
-    color: rgb(155, 29, 183);
+    color: rgb(255, 255, 255);
     font-size: 27px;
     text-decoration: none;
-}
-
-.header .nav-links {
-    display: flex;
-    gap: 10px; /* Adjust the gap as needed */
-    font-size: 20px;
 }
 
 .header a {
@@ -50,12 +43,12 @@ background: linear-gradient(90deg, rgba(248,251,255,1) 11%, rgba(167,85,236,1) 5
 .hero-part {
     font-size: 40px;
     justify-content: center;
-    align-items: center; /* Center content vertically */
-    display: flex; /* Flexbox to center content */
+    align-items: center;
+    display: flex;
     text-align: center;
     width: 100%;
     height: 100%;
-    background-color: aqua;
+    background-color: rgb(192, 197, 197);
 }
 
   /* ----- FEATURE 1 CONTENT ----- */
@@ -170,11 +163,11 @@ background: linear-gradient(90deg, rgba(248,251,255,1) 11%, rgba(167,85,236,1) 5
 }
 
 .box {
-    width: calc(33.33% - 13.33px); /* Adjust width to account for spacing */
+    width: calc(33.33% - 13.33px);
     background-color: #fff;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    box-sizing: border-box; /* Ensure padding is included in width */
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -195,7 +188,7 @@ background: linear-gradient(90deg, rgba(248,251,255,1) 11%, rgba(167,85,236,1) 5
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
-    margin-top: auto; /* Push button to the bottom of the box */
+    margin-top: auto;
 }
 
 .buy-now:hover {

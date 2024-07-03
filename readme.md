@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/yien26.png" alt="yien" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Feature Pages
 </div>
 
 <br />
@@ -57,13 +57,17 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+What is the Project?
+- This project is a website showcasing two feature pages, one inspired by Apple and the other by Nike. It uses HTML and CSS to create engaging designs.
+
+Purpose
+- The goal is to show how different design styles can be achieved with HTML and CSS, inspired by Apple and Nike.
+
+Technology Used
+- HTML: Structures the content.
+- CSS: Styles the pages, creating the Apple and Nike looks.
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -111,4 +115,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Apple Website | Used as reference | https://www.apple.com |
+| Nike Website | Used as reference | https://www.nike.com/ph/ |
